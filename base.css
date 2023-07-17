@@ -1,0 +1,52 @@
+:root {
+	--white-color: white;
+	--black-color: black;
+	--text-color: #333;
+	--monsterrat:  "Montserrat", sans-serif;
+}
+
+* {
+	box-sizing: inherit;
+}
+
+html {
+	/* HACK 1rem = 10px khi sử dụng font-size:62.5% */
+	font-size: 62.5%;
+	line-height: 1.75rem;
+	box-sizing: border-box;
+	font-family: "Ysabeau Infant", sans-serif;
+}
+
+.logo__img {
+}
+
+.logo__text {
+	font-family: "Russo One", sans-serif;
+	color: #11b7ff;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.grid {
+    width: 1300px;
+    max-width: 100%;
+    margin:0 auto;
+
+}
+
+.frid__full-width {
+    width:100%;
+
+}
+
+.grid__row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.slidebar {
+	caret-color: rgb(29, 162, 213);
+}
+
+.slidebar:focus {
+	outline-color: rgb(134, 209, 243);
+}

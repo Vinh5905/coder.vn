@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" xmlns:x="&amp;ns_extend;" xmlns:i="&amp;ns_ai;" xmlns:graph="&amp;ns_graphs;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 315 244.58" style="enable-background:new 0 0 315 244.58;" xml:space="preserve">
+      <style type="text/css">.st0{fill:url(#SVGID_1_);}	.st1{opacity:0.4;}</style>
+    <metadata>
+              <sfw>
+                      <slices/>
+            <sliceSourceBounds bottomLeftOrigin="true" height="244.58" width="315" x="9.36" y="-55.2"/>
+                  </sfw>
+          </metadata>
+    <g id="color_index_g">
+              <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-47.7458" y1="236.3156" x2="243.2639" y2="74.6436">
+                      <stop offset="0.21" style="stop-color:#1837ef"/>
+            <stop offset="1" style="stop-color:#10b6ff"/>
+                  </linearGradient>
+        <path class="st0" d="M307.6,0l-86.1,64.95l-19.99-0.08l-8.9-22.34l-82.09-0.27L0,162.84l7.4,81.74l88.91-63.29l17.49-0.46&#x9;&#x9;l8.86,21.23l81.82,0.27L315,81.78L307.6,0z"/>
+          </g>
+    <g>
+              <polygon class="st1" points="182.96,64.84 201.5,64.89 192.61,42.53 172.04,65.49 66.41,180.71 7.4,244.58 96.31,181.29 &#x9;&#x9;74.24,181.44 &#x9;"/>
+        <polygon class="st1" points="247.62,65.49 307.6,0 221.47,64.98 239.26,64.81 135.12,180.84 113.8,180.83 122.66,202.05 &#x9;"/>
+          </g>
+  </svg>
